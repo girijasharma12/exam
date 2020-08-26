@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db = "onlineshop";
+$servername = "sql12.freemysqlhosting.net";
+$username = "sql12362372";
+$password = "dnGtV7VzzJ";
+$db = "sql12362372";
 
 
 // Create connection
