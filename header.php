@@ -207,11 +207,7 @@ session_start();
 							<div class="header-ctn">
 								<!-- Wishlist -->
 								<div>
-									<a href="https://github.com/puneethreddyhc">
-										<i class="fa fa-github"></i>
-										<span>Github</span>
-										
-									</a>
+									
 								</div>
 								<!-- /Wishlist -->
 
