@@ -10,8 +10,7 @@
 								<h3 class="footer-title">About Us</h3>
 								<p>This is my Small Database Management System mini project</p>
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>Bangalore ,Kumbalagodu</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>+91-9535688928</a></li>
+									<li><a href="#"><i class="fa fa-map-marker"></i>Chittorgarh</a></li>
 									<li><a href="#"><i class="fa fa-envelope-o"></i>kittu@gmail.com</a></li>
 								</ul>
 							</div>
